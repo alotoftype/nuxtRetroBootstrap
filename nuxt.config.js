@@ -21,6 +21,8 @@ export default {
    ** Nuxt.js modules
    ** Doc: https://modules.nuxtjs.org
    */
+  components: true,
+
   modules: [],
 
   /*
